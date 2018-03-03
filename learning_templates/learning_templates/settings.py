@@ -26,7 +26,7 @@ SECRET_KEY = 'f@y+=2w&h)l!mj)vi7ef@rz&$2@k5plf9bs476wmtey9(&_7(!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['superbolla.pythonanywhere.com']
 
 
 # Application definition
